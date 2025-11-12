@@ -1,1 +1,16 @@
-#big_fix.exe
+# 👩‍🍳 Team Recipe Book
+
+Welcome to our Team Recipe Book — a collaborative collection of the meals, desserts, snacks, and chaotic kitchen experiments that keep us alive (and occasionally thriving).  
+Every recipe in this repo has been tested, tweaked, and approved by someone on the team.
+
+---
+
+## 🥘 What This Project Is
+
+This is a place where we:
+
+- Document recipes we love or invented by accident
+- Share cooking tips, ingredient notes, and variations
+- Keep everything version-controlled so we never lose Grandmother’s legendary cookie recipe again
+
+Each recipe is stored as a Markdown file and follows the same format for consistency.
